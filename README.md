@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning Node.js, Fintech, Data Structures and Algorithms 
 - 👯 I’m looking to collaborate on full stack projects
 - 🤔 I’m looking for help with DSA and competitive programming
-- 💬 Ask me about anything 
 - 📫 How to reach me: ...
  [![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rishi39malik@gmail.com)](mailto:rishi39malik@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-RishiMalik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kunalraghav/)](https://https://www.linkedin.com/in/rishi-malik-25034b152/)
