@@ -1,30 +1,38 @@
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-👋 Hello I'm RISHI MALIK , student at Thapar Institute Of Engineering and Technology.I'm currently pursuing BE in Computer Science.Other than technical work , I love to talk about finance , stock market and read about random stuff in my free time.
-<br>
-<br>
+# Hey, I'm Rishi Malik 👋
 
-- 🌱 I’m currently learning Node.js, Fintech, Data Structures and Algorithms 
-- 👯 I’m looking to collaborate on full stack projects
-- 🤔 I’m looking for help with DSA and competitive programming
-- 📫 How to reach me: ...
- [![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rishi39malik@gmail.com)](mailto:rishi39malik@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-RishiMalik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kunalraghav/)](https://https://www.linkedin.com/in/rishi-malik-25034b152/)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: You can talk to me about anything.
+Business & Data Analyst · Thapar Institute of Engineering and Technology · Ludhiana, India
 
-<a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" alt="cplusplus" width="40" height="40"/></a>
-<a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="cplusplus" width="40" height="40"/></a>
-<a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="cplusplus" width="40" height="40"/></a>
-<a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="cplusplus" width="40" height="40"/></a>
-<br/>
-<a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="cplusplus" width="40" height="40"/></a>
-<a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-<a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="cplusplus" width="40" height="40"/></a>
-<a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="cplusplus" width="40" height="40"/></a>
+![SQL](https://img.shields.io/badge/SQL-Expert-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-Proficient-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat-square&logo=python&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP%20%7C%20BigQuery-Used-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Bangalore%20%7C%20Gurgaon%20%7C%20Hyderabad-brightgreen?style=flat-square)
 
+---
 
-<img align="center" alt="GIF" src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" />
+## About me
 
-<!--
-**rishimalik0135/rishimalik0135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+- Business & Data Analyst with 1.2 years of experience at Allo Health and Accurio Health — reduced CAC by 40%+ and built reporting systems used across 4+ business units
+- Currently sharpening skills in data engineering — built a full GCP pipeline (GCS → Mage AI → BigQuery → Looker Studio) from scratch
+- Interested in BA, DA, and analytics roles at tech, fintech, and consulting companies
+- Outside work: stock market, personal finance, and reading whatever catches my eye
+
+---
+
+## Tech stack
+
+`SQL` `Power BI` `BigQuery` `Python` `Pandas` `GCP` `Mage AI` `Excel` `Google Analytics` `Looker Studio`
+
+---
+
+## Projects
+
+**[Uber NYC Taxi Analytics Pipeline](https://github.com/rishimalik0135/uber-data-engineering-pipeline)**
+End-to-end GCP pipeline · Python · Mage AI · BigQuery · Looker Studio · 100K trips · Star schema (1 fact, 7 dim tables)
+
+**[Hospitality Revenue Analytics Dashboard](https://github.com/rishimalik0135/hospitality-revenue-analytics-powerbi)**
+Power BI · DAX · RevPAR, ADR, Occupancy % · 8 properties · 3 cities · 1.69bn portfolio revenue
+
+---
+
+*Open to opportunities · he/him · can talk about anything*
