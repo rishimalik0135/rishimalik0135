@@ -1,12 +1,12 @@
 # Hey, I'm Rishi Malik 👋
 
-Business & Data Analyst · Thapar Institute of Engineering and Technology · Ludhiana, India
+Business & Data Analyst · Thapar Institute of Engineering and Technology · Open to relocate anywhere in India
 
-![SQL](https://img.shields.io/badge/SQL-Expert-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Proficient-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Proficient-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Python](https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Proficient-3776AB?style=flat-square&logo=python&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP%20%7C%20BigQuery-Used-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Bangalore%20%7C%20Gurgaon%20%7C%20Hyderabad-brightgreen?style=flat-square)
+![Open to Relocate](https://img.shields.io/badge/Open%20to%20Relocate-Anywhere%20in%20India-brightgreen?style=flat-square)
 
 ---
 
@@ -35,4 +35,6 @@ Power BI · DAX · RevPAR, ADR, Occupancy % · 8 properties · 3 cities · 1.69b
 
 ---
 
-*Open to opportunities · he/him · can talk about anything*
+## Contact
+
+📧 rishi39malik@gmail.com · Open to relocate anywhere in India · he/him
